@@ -1,4 +1,4 @@
-# Awesome Context Compression for LLM Agents
+# Awesome Agent Context Compression
 
 <div align="center">
 
