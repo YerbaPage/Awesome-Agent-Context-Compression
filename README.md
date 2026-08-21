@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-Preprints-green.svg)](https://www.preprints.org/manuscript/202605.2065)
+[![Paper](https://img.shields.io/badge/Paper-EMNLP%202026-blue.svg)](https://www.preprints.org/manuscript/202605.2065)
+[![Stars](https://img.shields.io/github/stars/YerbaPage/Awesome-Agent-Context-Compression?style=social)](https://github.com/YerbaPage/Awesome-Agent-Context-Compression)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -24,6 +25,7 @@ You can also open an issue in this repository for general discussions and sugges
 
 ## 📰 News
 
+- **[2026.08]** 🎉 Our survey is accepted to **EMNLP 2026 (Main Conference)**!
 - **[2026.05]** Our survey [*Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation*](https://www.preprints.org/manuscript/202605.2065) is released!
 - **[2026.04]** Repository initialized with comprehensive paper list from our survey
 
@@ -570,8 +572,8 @@ This repository is actively maintained and we **keep updating** it with the late
 ## ⭐ Star History
 
 <p align="center">
-  <a href="https://star-history.com/#YerbaPage/Awesome-Context-Compression&Date">
-    <img src="https://api.star-history.com/svg?repos=YerbaPage/Awesome-Context-Compression&type=Date" alt="Star History Chart" width="70%" />
+  <a href="https://star-history.com/#YerbaPage/Awesome-Agent-Context-Compression&Date">
+    <img src="https://api.star-history.com/svg?repos=YerbaPage/Awesome-Agent-Context-Compression&type=Date" alt="Star History Chart" width="70%" />
   </a>
 </p>
 
