@@ -53,7 +53,7 @@ This repository organizes the literature along three axes: **what** is selected 
 | **Who/When** | Control policies and intervention timing | System-controlled → External controller → Agent-controlled → Learned |
 
 <p align="center">
-  <img src="figures/taxonomy.png" alt="Agent context compression taxonomy" width="92%" />
+  <img src="figures/taxonomy0824.png" alt="Agent context compression taxonomy" width="92%" />
 </p>
 
 ---
