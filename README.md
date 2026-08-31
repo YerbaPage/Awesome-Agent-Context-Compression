@@ -166,6 +166,7 @@ Agent context differs fundamentally from static prompts. The unified pipeline fo
 Compressing raw environment observations (HTML pages, code files, tool outputs, screenshots) before they enter the agent context.
 
 <ul>
+<li><i><b>TokenPilot: Cache-Efficient Context Management for LLM Agents</b></i>, Xu et al., <a href="https://arxiv.org/abs/2606.17016" target="_blank"><img src="https://img.shields.io/badge/EMNLP-2026-blue" alt="EMNLP Badge"></a></li>
 <li><i><b>The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management</b></i>, Lindenbauer et al., <a href="https://arxiv.org/abs/2508.21433" target="_blank"><img src="https://img.shields.io/badge/NeurIPS_Workshop-2025-blue" alt="NeurIPS Workshop Badge"></a></li>
 <li><i><b>A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis</b></i> (HTML-T5), Gur et al., <a href="https://arxiv.org/abs/2307.12856" target="_blank"><img src="https://img.shields.io/badge/ICLR-2024_(Oral)-blue" alt="ICLR Badge"></a></li>
 <li><i><b>Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents</b></i> (LCoW), Lee et al., <a href="https://arxiv.org/abs/2503.10689" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
@@ -187,6 +188,7 @@ Compressing raw environment observations (HTML pages, code files, tool outputs, 
 Compressing the accumulated action–observation history of agent execution traces.
 
 <ul>
+<li><i><b>TokenPilot: Cache-Efficient Context Management for LLM Agents</b></i>, Xu et al., <a href="https://arxiv.org/abs/2606.17016" target="_blank"><img src="https://img.shields.io/badge/EMNLP-2026-blue" alt="EMNLP Badge"></a></li>
 <li><i><b>Improving the Efficiency of LLM Agent Systems through Trajectory Reduction</b></i> (AgentDiet), Xiao et al., <a href="https://arxiv.org/abs/2509.23586" target="_blank"><img src="https://img.shields.io/badge/FSE-2026-blue" alt="FSE Badge"></a></li>
 <li><i><b>ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization</b></i>, Wu et al., <a href="https://arxiv.org/abs/2509.13313" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026-red" alt="arXiv Badge"></a></li>
 <li><i><b>WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning</b></i>, Wang et al., <a href="https://arxiv.org/abs/2602.12852" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026.02-red" alt="arXiv Badge"></a></li>
@@ -321,6 +323,7 @@ Using LLMs or specialized models to produce condensed summaries of context segme
 Selectively removing less important tokens, segments, or episodes from context.
 
 <ul>
+<li><i><b>TokenPilot: Cache-Efficient Context Management for LLM Agents</b></i>, Xu et al., <a href="https://arxiv.org/abs/2606.17016" target="_blank"><img src="https://img.shields.io/badge/EMNLP-2026-blue" alt="EMNLP Badge"></a></li>
 <li><i><b>WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning</b></i>, Wang et al., <a href="https://arxiv.org/abs/2602.12852" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>ContextEvolve: Multi-Agent Context Compression for Systems Code Optimization</b></i>, Su et al., <a href="https://arxiv.org/abs/2602.02597" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>PoC: Performance-oriented Context Compression for Large Language Models via Performance Prediction</b></i>, Zhao et al., <a href="https://arxiv.org/abs/2603.19733" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026.03-red" alt="arXiv Badge"></a></li>
@@ -417,6 +420,7 @@ System-controlled policies apply fixed rules to trigger compression:
 External-controller policies delegate the decision to a separate module:
 
 <ul>
+<li><i><b>TokenPilot: Cache-Efficient Context Management for LLM Agents</b></i>, Xu et al., <a href="https://arxiv.org/abs/2606.17016" target="_blank"><img src="https://img.shields.io/badge/EMNLP-2026-blue" alt="EMNLP Badge"></a></li>
 <li><i><b>PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents</b></i>, Liu et al., <a href="https://arxiv.org/abs/2510.00413" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression</b></i>, Bai et al., <a href="https://arxiv.org/abs/2512.13956" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026-red" alt="arXiv Badge"></a></li>
 <li><i><b>ContextBudget: Budget-Aware Context Management for Long-Horizon Search Agents</b></i>, Wu et al., <a href="https://arxiv.org/abs/2604.01664" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026.04-red" alt="arXiv Badge"></a></li>
