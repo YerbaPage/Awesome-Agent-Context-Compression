@@ -27,7 +27,7 @@ You can also open an issue in this repository for general discussions and sugges
 
 - **[2026.11]** Added 38 papers first released in September–October 2026 across compression methods, evaluation, and failure analysis (literature search through October 28).
 - **[2026.08]** 🎉 Our survey is accepted to **EMNLP 2026 (Main Conference)**!
-- **[2026.05]** Our survey [*Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation*](https://www.preprints.org/manuscript/202605.2065) is released!
+- **[2026.05]** Our survey [*Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation*](https://aclanthology.org/2026.emnlp-main.2396/) is released!
 - **[2026.04]** Repository initialized with comprehensive paper list from our survey
 
 ---
